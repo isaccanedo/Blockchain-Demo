@@ -1,8 +1,7 @@
 
 # Blockchain Demonstration
 
-A web-based demonstration of blockchain concepts.
-This is a very basic visual introduction to the concepts behind a blockchain.
+Uma demonstração baseada na web de conceitos de blockchain. Esta é uma introdução visual básica aos conceitos por trás de um blockchain.
 
 # How to use ?
 
