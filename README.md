@@ -3,10 +3,10 @@
 
 Uma demonstração baseada na web de conceitos de blockchain. Esta é uma introdução visual básica aos conceitos por trás de um blockchain.
 
-# How to use ?
+# Como usar ?
 
-Create two or more Clients and send a transaction into Node that you create also (can be more than one) submit the transaction of clients and go to Blockchain Node Site to refresh and Mine the transcations. once you mine the block you will check down history of transactions that you have done and also the Node receive 1 of crypto.
-this is the very basic demo that you can do. I will let you discover the rest.
+Crie dois ou mais clientes e envie uma transação para o nó que você também criou (pode ser mais de um), envie a transação dos clientes e vá para o site do nó do Blockchain para atualizar e extrair as transacções. Depois de minerar o bloco, você verificará o histórico de transações que realizou e também o Nó recebe 1 de criptografia.
+esta é a demonstração básica que você pode fazer. Vou deixar você descobrir o resto.
 
 ![github-small](https://i.imgur.com/CBihcD3.png)
 ![github-small](https://i.imgur.com/rA9buH5.png)
