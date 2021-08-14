@@ -14,7 +14,7 @@ esta é a demonstração básica que você pode fazer. Vou deixar você descobri
 
 # FAQ
 
-### When or why I would use this?
+### Quando ou por que eu usaria isso?
 
 You should use this if you want to understand altcoins wallet, payment processor, or bitcoin merchant portal in javascript. You might also be interested in why decentralized networks or p2p applications are useful, or what advantages they have; this project seems like a good way to learn about that.
 
