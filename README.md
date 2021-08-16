@@ -19,9 +19,9 @@ esta é a demonstração básica que você pode fazer. Vou deixar você descobri
 You should use this if you want to understand altcoins wallet, payment processor, or bitcoin merchant portal in javascript. You might also be interested in why decentralized networks or p2p applications are useful, or what advantages they have; this project seems like a good way to learn about that.
 
 
-### What is smallest definition of the blockchain ?
+### Qual é a menor definição de blockchain?
 
-Blockchain is a distributed, decentralized, public ledger.
+Blockchain é um livro-razão público distribuído e descentralizado.
 
 
 ### What is the block chain actually for?
