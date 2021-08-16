@@ -24,9 +24,9 @@ You should use this if you want to understand altcoins wallet, payment processor
 Blockchain é um livro-razão público distribuído e descentralizado.
 
 
-### What is the block chain actually for?
+### Para que serve a cadeia de blocos?
 
-blockchain is only for "storing" the transaction history and "chain" or link them together using cryptography and in coins such as bitcoin by doing "work" hence the term proof of work. so blockchain only works as the public immutable ledger that only grows. the "authorization" happens by the user when they provide a digital signature.
+Blockchain serve apenas para "armazenar" o histórico de transações e "encadear" ou vinculá-los usando criptografia e em moedas como bitcoin fazendo "trabalho", daí o termo prova de trabalho. portanto, o blockchain só funciona como um livro-razão público imutável que só cresce. a “autorização” ocorre pelo usuário ao fornecer uma assinatura digital.
 
 
 ### Why the hell should I care about the blockchain?
