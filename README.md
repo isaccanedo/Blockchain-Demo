@@ -16,7 +16,7 @@ esta é a demonstração básica que você pode fazer. Vou deixar você descobri
 
 ### Quando ou por que eu usaria isso?
 
-You should use this if you want to understand altcoins wallet, payment processor, or bitcoin merchant portal in javascript. You might also be interested in why decentralized networks or p2p applications are useful, or what advantages they have; this project seems like a good way to learn about that.
+Você deve usar isso se quiser entender a carteira altcoins, o processador de pagamentos ou o portal do comerciante bitcoin em javascript. Você também pode estar interessado em saber por que redes descentralizadas ou aplicativos p2p são úteis, ou quais vantagens eles têm; este projeto parece uma boa maneira de aprender sobre isso.
 
 
 ### Qual é a menor definição de blockchain?
