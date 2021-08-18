@@ -29,9 +29,9 @@ Blockchain é um livro-razão público distribuído e descentralizado.
 Blockchain serve apenas para "armazenar" o histórico de transações e "encadear" ou vinculá-los usando criptografia e em moedas como bitcoin fazendo "trabalho", daí o termo prova de trabalho. portanto, o blockchain só funciona como um livro-razão público imutável que só cresce. a “autorização” ocorre pelo usuário ao fornecer uma assinatura digital.
 
 
-### Why the hell should I care about the blockchain?
+### Por que eu deveria me preocupar com o blockchain?
 
-Blockchain facilitates trade over a network. Imagine a metal as scarce as gold with a magical property of "can be transported over a communications channel". This has implications with respect to individual rights, the world economy, and the way we monetize and transfer value at a level higher than bartering directly for goods.
+Blockchain facilita o comércio em uma rede. Imagine um metal tão escasso quanto o ouro com uma propriedade mágica de "poder ser transportado por um canal de comunicação". Isso tem implicações no que diz respeito aos direitos individuais, à economia mundial e à forma como monetizamos e transferimos valor em um nível mais alto do que a troca direta por bens.
 
 
 
