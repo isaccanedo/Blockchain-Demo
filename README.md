@@ -36,4 +36,4 @@ Blockchain facilita o comércio em uma rede. Imagine um metal tão escasso quant
 
 
 -----------------------------------------------------------------
-Give a ⭐️ if this project helped you!
+Dê uma ⭐️ se este projeto te ajudou!
