@@ -9,7 +9,7 @@ from Crypto.Signature import PKCS1_v1_5
 
 
 class Transaction:
-    # for any transaction in Blockchain, your need 4 items are your public and private key and the public key of the recipent and the amount
+    # para qualquer transação no Blockchain, seus 4 itens necessários são sua chave pública e privada e a chave pública do destinatário e o valor
     def __init__(self, sender_public_key, sender_private_key, recipient_public_key, amount):
         self.sender_public_key = sender_public_key
         self.sender_private_key = sender_private_key
@@ -30,7 +30,7 @@ class Transaction:
         return binascii.hexlify(signer.sign(h)).decode('ascii')
 
 
-# Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
+# Flask é uma estrutura leve de aplicativo da web WSGI. Ele foi projetado para tornar os primeiros passos rápidos e fáceis, com a capacidade de escalar para aplicativos complexos.
 app = Flask(__name__)
 
 
