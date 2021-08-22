@@ -16,7 +16,7 @@ MINING_SENDER = "The Blockchain"
 MINING_REWARD = 1
 MINING_DIFFICULTY = 2
 
-# i will add comments to explain asap
+# Vou adicionar comentários para explicar o mais rápido possível
 class Blockchain:
 
     def __init__(self):
