@@ -148,7 +148,7 @@ class Blockchain:
                 return False
 
 
-# Instantiate the Blockchain
+# Instancie o Blockchain
 blockchain = Blockchain()
 
 
