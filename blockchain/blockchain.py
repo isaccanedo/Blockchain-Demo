@@ -222,7 +222,7 @@ def new_transaction():
         response = {'message': 'Invalid transaction/signature'}
         return jsonify(response), 406
     else:
-        response = {'message': 'Transaction will be added to the Block ' + str(transaction_results)}
+        response = {'message': 'A transação será adicionada ao bloco ' + str(transaction_results)}
         return jsonify(response), 201
 
 
