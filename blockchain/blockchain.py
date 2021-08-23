@@ -44,7 +44,7 @@ class Blockchain:
                  'nonce': nonce,
                  'previous_hash': previous_hash}
 
-        # Reset the current list of transactions
+        # Redefina a lista atual de transações
         self.transactions = []
         self.chain.append(block)
         return block
