@@ -78,7 +78,7 @@ class Blockchain:
 
     @staticmethod
     def hash(block):
-        # must to ensure that the Dictionary is ordered, otherwise we'll get inconsistent hashes
+        # deve garantir que o dicionário seja ordenado, caso contrário, obteremos hashes inconsistentes
         block_string = json.dumps(block, sort_keys=True).encode('utf8')
         h = hashlib.new('sha256')
         h.update(block_string)
