@@ -68,7 +68,7 @@ def view_transactions():
 @app.route('/wallet/new')
 def new_wallet():
     # para gerar uma chave pública e privada aleatória, usamos RSA de Crypto.PublicKey
-    # learn more here : https://pycryptodome.readthedocs.io/en/latest/src/public_key/rsa.html
+    # saiba mais aqui: https://pycryptodome.readthedocs.io/en/latest/src/public_key/rsa.html
     random_gen = Crypto.Random.new().read
     # It must be at least 1024, but you can also use 2048 and 3072
     private_key = RSA.generate(1024, random_gen)
