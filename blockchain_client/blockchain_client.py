@@ -75,7 +75,7 @@ def new_wallet():
     public_key = private_key.publickey()
 
     response = {
-        # Return the hexadecimal representation of the binary data. and than decode to ASCII
+        # Retorna a representação hexadecimal dos dados binários. e então decodificar para ASCII
         'private_key': binascii.hexlify(private_key.export_key(format('DER'))).decode('ascii'),
         'public_key': binascii.hexlify(public_key.export_key(format('DER'))).decode('ascii')
     }
