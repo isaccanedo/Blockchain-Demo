@@ -37,7 +37,7 @@ class Blockchain:
             raise ValueError('Invalid URL')
 
     def create_block(self, nonce, previous_hash):
-        # add block of transaction
+        # adicionar bloco de transação
         block = {'block_number': len(self.chain) + 1,
                  'timestamp': time(),
                  'transactions': self.transactions,
