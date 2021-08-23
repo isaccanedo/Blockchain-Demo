@@ -80,7 +80,7 @@ def new_wallet():
         'public_key': binascii.hexlify(public_key.export_key(format('DER'))).decode('ascii')
     }
 
-    # The jsonify() function in flask returns a flask.Response() object that already has the appropriate content-type header 'application/json' for use with json responses.
+    # A função jsonify() em flask retorna um objeto flask.Response() que já possui o cabeçalho de tipo de conteúdo apropriado 'application/json' para uso com respostas json.
     return jsonify(response), 200
 
 
